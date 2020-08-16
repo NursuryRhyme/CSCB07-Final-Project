@@ -1,5 +1,5 @@
 # CSCB07-Final-Project
-Bank Application
+Bank Application for mobile devices
 
 Simulation of over the counter interactions commonly performed at Banks
 
